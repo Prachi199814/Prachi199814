@@ -1,3 +1,4 @@
+![logo](https://github.com/Prachi199814/Prachi199814/blob/main/LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Prachi Pandey</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
